@@ -23,11 +23,11 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Anxiety Disorders: "https://smthnrndm.github.io/disorders/Anxiety.html"
-    - Personality Disorders: "https://www.markdowntutorial.com/"
-    - Mood Disorders: ""
-    - Eating Disorders: ""
-    - Post-Traumatic Stress Disorders: ""
-    - Psychotic Disorders: ""
+    - Personality Disorders: "https://smthnrndm.github.io/disorders/personality.html"
+    - Mood Disorders: "https://smthnrndm.github.io/disorders/mood.html"
+    - Eating Disorders: "https://smthnrndm.github.io/disorders/eating.html"
+    - Post-Traumatic Stress Disorders: "https://smthnrndm.github.io/disorders/ptsd.html"
+    - Psychotic Disorders: "https://smthnrndm.github.io/disorders/psychotic.html"
   Author's home: "https://deanattali.com"
 
 ################
