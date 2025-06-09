@@ -7,6 +7,7 @@ source "https://rubygems.org"
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
   gem "tzinfo-data"
+  gem 'jemoji'
 end
 
 # Performance-booster for watching directories on Windows
