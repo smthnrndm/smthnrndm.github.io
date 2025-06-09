@@ -22,8 +22,12 @@ author: Eliana Kang
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Anxiety Disorders: "https://beautifuljekyll.com"
+    - Personality Disorders: "https://www.markdowntutorial.com/"
+    - Mood Disorders: ""
+    - Eating Disorders: ""
+    - Post-Traumatic Stress Disorders: ""
+    - Psychotic Disorders: ""
   Author's home: "https://deanattali.com"
 
 ################
