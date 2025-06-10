@@ -289,7 +289,7 @@ defaults:
       layout: "page"
   -
   collections:
-  pages:
+  _pages:
     output: true
 
 # Exclude these files from production site
