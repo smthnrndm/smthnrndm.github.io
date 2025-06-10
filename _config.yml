@@ -22,7 +22,7 @@ author: Eliana Kang
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Anxiety Disorders: "anxiety"
+   # - Anxiety Disorders: "anxiety"
     - Personality Disorders: "https://smthnrndm.github.io/disorders/personality.html"
     - Mood Disorders: "https://smthnrndm.github.io/disorders/mood.html"
     - Eating Disorders: "https://smthnrndm.github.io/disorders/eating.html"
