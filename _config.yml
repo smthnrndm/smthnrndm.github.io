@@ -23,11 +23,11 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Anxiety Disorders: "anxiety"
-    - Personality Disorders: "https://smthnrndm.github.io/disorders/personality.html"
-    - Mood Disorders: "https://smthnrndm.github.io/disorders/mood.html"
-    - Eating Disorders: "https://smthnrndm.github.io/disorders/eating.html"
-    - Post-Traumatic Stress Disorders: "https://smthnrndm.github.io/disorders/ptsd.html"
-    - Psychotic Disorders: "https://smthnrndm.github.io/disorders/psychotic.html"
+    - Personality Disorders: "personality"
+    - Mood Disorders: "mood"
+    - Eating Disorders: "eating"
+    - Post-Traumatic Stress Disorders: "ptsd"
+    - Psychotic Disorders: "psychotic"
 
 ################
 # --- Logo --- #
