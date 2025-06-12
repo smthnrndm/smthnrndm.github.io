@@ -14,7 +14,7 @@ permalink: /anxiety/
 
 We all experience anxiety. After all, it's a normal human emotion. From stage fright to worrying about your next assignment's due date, small doses of anxiety aren't anything out of the ordinary. However, chronic and excessive fear that interferes with daily living is a characteristic of anxiety disorders.
 
-**Possible Causes**
+<h1>Possible Causes</h1>
 - Chemical imbalance
 - Genetics
 - Environmental factors
