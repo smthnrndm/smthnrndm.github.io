@@ -10,8 +10,8 @@ permalink: /anxiety/
   }
 
   body{
-    background-color: linear-gradient(to right, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(to right, #667eea 0%, #764ba2 100%);
   }
 </style>
 
-<body>Characterized by excessive fear and anxiety.</body>
+Characterized by excessive fear and anxiety.
