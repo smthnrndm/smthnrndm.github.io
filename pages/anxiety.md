@@ -8,7 +8,7 @@ permalink: /anxiety/
   body{
     background: linear-gradient(to right, #667eea 0%, #764ba2 100%);
     font-family: 'Segoe UI';
-    color: #333;
+    color: WHITE;
   }
 </style>
 
