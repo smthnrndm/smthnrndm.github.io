@@ -8,7 +8,6 @@ permalink: /anxiety/
   body{
     background: linear-gradient(to right, #667eea 0%, #764ba2 100%);
     font-family: 'Segoe UI';
-    
   }
 
   .topDiv{
@@ -68,4 +67,3 @@ permalink: /anxiety/
 // Alyssa. (2023, March 17). Is Anxiety Caused by Chemical Imbalance? | Banyan Mental Health. Mental Health Program at Banyan Treatment Centers. https://mentalhealth.banyantreatmentcenter.com/blog/is-anxiety-a-chemical-imbalance/
 // DSM-5-TR
 // Cleveland Clinic. (2024, July 3). Anxiety Disorders. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders
-//h
