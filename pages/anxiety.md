@@ -42,21 +42,21 @@ permalink: /anxiety/
 
 <div class="bodyDiv">
   <h1>Possible Causes</h1>
-  - Chemical imbalance
-  - Genetics
-  - Environmental factors
-  - Psychological influences
+- Chemical imbalance
+- Genetics
+- Environmental factors
+- Psychological influences
 </div>
 
 <div class="bodyDiv">
   <h1>Types of Anxiety Disorders</h1>
-  - General anxiety disorder (GAD)
-  - Agoraphobia
-  - Panic disorder
-  - Specific phobias
-  - Social anxiety disorder
-  - Separation anxiety disorder
-  - Selective mutism
+- General anxiety disorder (GAD)
+- Agoraphobia
+- Panic disorder
+- Specific phobias
+- Social anxiety disorder
+- Separation anxiety disorder
+- Selective mutism
 </div>
 
 // APA cite used
