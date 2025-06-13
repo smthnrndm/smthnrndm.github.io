@@ -11,7 +11,7 @@ permalink: /anxiety/
     color: WHITE;
   }
 
-  .myDiv{
+  .topDiv{
     background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
     padding: 60px 40px;
     color: white;
@@ -20,31 +20,41 @@ permalink: /anxiety/
     max-width: 90%;
     margin: 40px auto;
   }
+
+  .bodyDiv{
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 15px;
+  }
   
 </style>
 
-<div class="myDiv">
-We all experience anxiety. After all, it's a normal human emotion. From
-stage fright to worrying about your next assignment's due date, small
-doses of anxiety aren't anything out of the ordinary. However, chronic
-and excessive fear that interferes with daily living could be a sign of
-anxiety disorders.
+<div class="topDiv">
+  We all experience anxiety. After all, it's a normal human emotion. From
+  stage fright to worrying about your next assignment's due date, small
+  doses of anxiety aren't anything out of the ordinary. However, chronic
+  and excessive fear that interferes with daily living could be a sign of
+  anxiety disorders.
 </div>
 
-<h1>Possible Causes</h1>
-- Chemical imbalance
-- Genetics
-- Environmental factors
-- Psychological influences
+<div class="bodyDiv">
+  <h1>Possible Causes</h1>
+  - Chemical imbalance
+  - Genetics
+  - Environmental factors
+  - Psychological influences
+</div>
 
-<h1>Types of Anxiety Disorders</h1>
-- General anxiety disorder (GAD)
-- Agoraphobia
-- Panic disorder
-- Specific phobias
-- Social anxiety disorder
-- Separation anxiety disorder
-- Selective mutism
+<div class="bodyDiv">
+  <h1>Types of Anxiety Disorders</h1>
+  - General anxiety disorder (GAD)
+  - Agoraphobia
+  - Panic disorder
+  - Specific phobias
+  - Social anxiety disorder
+  - Separation anxiety disorder
+  - Selective mutism
+</div>
 
 // APA cite used
 // Alyssa. (2023, March 17). Is Anxiety Caused by Chemical Imbalance? | Banyan Mental Health. Mental Health Program at Banyan Treatment Centers. https://mentalhealth.banyantreatmentcenter.com/blog/is-anxiety-a-chemical-imbalance/
