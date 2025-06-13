@@ -10,9 +10,19 @@ permalink: /anxiety/
     font-family: 'Segoe UI';
     color: WHITE;
   }
+
+  .myDiv{
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    padding: 60px 40px;
+    color: white;
+    text-align: center;
+  }
+  
 </style>
 
-We all experience anxiety. After all, it's a normal human emotion. From stage fright to worrying about your next assignment's due date, small doses of anxiety aren't anything out of the ordinary. However, chronic and excessive fear that interferes with daily living is a characteristic of anxiety disorders.
+<div class="myDiv">
+We all experience anxiety. After all, it's a normal human emotion. From stage fright to worrying about your next assignment's due date, small doses of anxiety aren't anything out of the ordinary. However, chronic and excessive fear that interferes with daily living could be a sign of anxiety disorders.
+</div>
 
 <h1>Possible Causes</h1>
 - Chemical imbalance
