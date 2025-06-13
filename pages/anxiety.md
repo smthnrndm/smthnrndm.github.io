@@ -13,9 +13,10 @@ permalink: /anxiety/
 
   .myDiv{
     background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    padding: 60px 40px;
+    padding: 100px 40px;
     color: white;
     text-align: center;
+    border-radius: 15px;
   }
   
 </style>
