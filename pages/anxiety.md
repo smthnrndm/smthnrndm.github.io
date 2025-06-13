@@ -24,11 +24,11 @@ permalink: /anxiety/
 </style>
 
 <div class="myDiv">
-  <p>We all experience anxiety. After all, it's a normal human emotion. From
-    stage fright to worrying about your next assignment's due date, small
-    doses of anxiety aren't anything out of the ordinary. However, chronic
-    and excessive fear that interferes with daily living could be a sign of
-    anxiety disorders.</p>
+We all experience anxiety. After all, it's a normal human emotion. From
+stage fright to worrying about your next assignment's due date, small
+doses of anxiety aren't anything out of the ordinary. However, chronic
+and excessive fear that interferes with daily living could be a sign of
+anxiety disorders.
 </div>
 
 <h1>Possible Causes</h1>
