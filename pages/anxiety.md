@@ -8,7 +8,7 @@ permalink: /anxiety/
   body{
     background: linear-gradient(to right, #667eea 0%, #764ba2 100%);
     font-family: 'Segoe UI';
-    color: WHITE;
+    
   }
 
   .topDiv{
@@ -19,12 +19,15 @@ permalink: /anxiety/
     border-radius: 15px;
     max-width: 90%;
     margin: 40px auto;
+    color: WHITE;
   }
 
   .bodyDiv{
     background: #f8f9fa;
     padding: 30px;
     border-radius: 15px;
+    border-left: 5px solid #4facfe;
+    color: BLACK;
   }
   
 </style>
