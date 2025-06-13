@@ -27,6 +27,7 @@ permalink: /anxiety/
     padding: 30px;
     border-radius: 15px;
     border-left: 5px solid #4facfe;
+    margin-bottom: 15px;
     color: BLACK;
   }
   
