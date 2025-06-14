@@ -66,32 +66,38 @@ permalink: /anxiety/
 
 <div class="bodyDiv">
   <h2>Agoraphobia</h2>
-  <h3></h3>  
+  <h4>Intense fear and avoidance of public places or situations that might cause panic and feelings of being trapped.</h4>
+  <ul>
+    <li>Fear of leaving home alone</li>
+    <li>Fear of crowds</li>
+    <li>Fear of enclosed spaces</li>
+    <li>Fear of using public transportation</li>
+  </ul>
 </div>
 
 <div class="bodyDiv">
   <h2>Panic disorder</h2>
-  <h3></h3>
+  <h4></h4>
 </div>
 
 <div class="bodyDiv">
   <h2>Specific phobias</h2>
-  <h3></h3>
+  <h4></h4>
 </div>
 
 <div class="bodyDiv">
   <h2>Social anxiety disorder</h2>
-  <h3></h3>
+  <h4></h4>
 </div>
 
 <div class="bodyDiv">
   <h2>Separation anxiety disorder</h2>
-  <h3></h3>
+  <h4></h4>
 </div>
 
 <div class="bodyDiv">
   <h2>Selective mutism</h2>
-  <h3></h3>
+  <h4></h4>
 </div>
 
 // APA cite used
@@ -99,5 +105,6 @@ permalink: /anxiety/
 // DSM-5-TR
 // Cleveland Clinic. (2024, July 3). Anxiety Disorders. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders
 // Johns Hopkins Medicine. (2025). Generalized Anxiety Disorder (GAD). John Hopkins Medicine. https://www.hopkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder
+// Mayo Clinic. (2023, January 7). Agoraphobia - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987
 
 ‌
