@@ -53,7 +53,7 @@ permalink: /anxiety/
 <h1>Types of Anxiety Disorders</h1>
 <div class="bodyDiv">
   <h2>General anxiety disorder (GAD)</h2>
-  <h3>When worry persists for most days for at least 6 months, and interferes with your daily living, you may have GAD.</h3>
+  <h4>When worry persists for most days for at least 6 months, and interferes with your daily living, you may have GAD.</h4>
   <ul>
     <li>Unable to relax</li>
     <li>Inability to concentrate</li>
