@@ -40,8 +40,8 @@ permalink: /anxiety/
   anxiety disorders.
 </div>
 
+<h1>Possible Causes</h1>
 <div class="bodyDiv">
-  <h1>Possible Causes</h1>
   <ul>
     <li>Chemical imbalance</li>
     <li>Genetics</li>
@@ -50,20 +50,54 @@ permalink: /anxiety/
   </ul>
 </div>
 
+<h1>Types of Anxiety Disorders</h1>
 <div class="bodyDiv">
-  <h1>Types of Anxiety Disorders</h1>
+  <h2>General anxiety disorder (GAD)</h2>
+  <h3>When worry persists for most days for at least 6 months, and interferes with your daily living, you may have GAD.</h3>
   <ul>
-    <li>General anxiety disorder (GAD)</li>
-    <li>Agoraphobia</li>
-    <li>Panic disorder</li>
-    <li>Specific phobias</li>
-    <li>Social anxiety disorder</li>
-    <li>Separation anxiety disorder</li>
-    <li>Selective mutism</li>
+    <li>Unable to relax</li>
+    <li>Inability to concentrate</li>
+    <li>Trouble breathing</li>
+    <li>Sweating</li>
+    <li>Tense muscles</li>
+    <li>Fatigue</li>
   </ul>
+</div>
+
+<div class="bodyDiv">
+  <h2>Agoraphobia</h2>
+  <h3></h3>  
+</div>
+
+<div class="bodyDiv">
+  <h2>Panic disorder</h2>
+  <h3></h3>
+</div>
+
+<div class="bodyDiv">
+  <h2>Specific phobias</h2>
+  <h3></h3>
+</div>
+
+<div class="bodyDiv">
+  <h2>Social anxiety disorder</h2>
+  <h3></h3>
+</div>
+
+<div class="bodyDiv">
+  <h2>Separation anxiety disorder</h2>
+  <h3></h3>
+</div>
+
+<div class="bodyDiv">
+  <h2>Selective mutism</h2>
+  <h3></h3>
 </div>
 
 // APA cite used
 // Alyssa. (2023, March 17). Is Anxiety Caused by Chemical Imbalance? | Banyan Mental Health. Mental Health Program at Banyan Treatment Centers. https://mentalhealth.banyantreatmentcenter.com/blog/is-anxiety-a-chemical-imbalance/
 // DSM-5-TR
 // Cleveland Clinic. (2024, July 3). Anxiety Disorders. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders
+// Johns Hopkins Medicine. (2025). Generalized Anxiety Disorder (GAD). John Hopkins Medicine. https://www.hopkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder
+
+‌
