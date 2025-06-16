@@ -77,7 +77,14 @@ permalink: /anxiety/
 
 <div class="bodyDiv">
   <h2>Panic disorder</h2>
-  <h4></h4>
+  <h4>Panic attacks are episodes of sudden fear that cause intense physical reactions when there is no real danger or cause. A panic disorder is characterized by recurrent unexpected panic attacks.</h4>
+  <ul>
+    <li>Rapid heart rate</li>
+    <li>Shortness of breath</li>
+    <li>Sense of impending doom</li>
+    <li>Fear of death</li>
+    <li>Hot flashes</li>
+  </ul>
 </div>
 
 <div class="bodyDiv">
@@ -106,5 +113,7 @@ permalink: /anxiety/
 // Cleveland Clinic. (2024, July 3). Anxiety Disorders. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders
 // Johns Hopkins Medicine. (2025). Generalized Anxiety Disorder (GAD). John Hopkins Medicine. https://www.hopkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder
 // Mayo Clinic. (2023, January 7). Agoraphobia - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987
+// Mayo Clinic. (2018, May 4). Panic Attacks and Panic Disorder - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021
 
+‌
 ‌
