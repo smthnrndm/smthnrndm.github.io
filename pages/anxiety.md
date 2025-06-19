@@ -133,20 +133,29 @@ permalink: /anxiety/
 </div>
 
 <h3>References</h3>
-Alyssa. (2023, March 17). Is Anxiety Caused by Chemical Imbalance? | Banyan Mental Health. Mental Health Program at Banyan Treatment Centers. https://mentalhealth.banyantreatmentcenter.com/blog/is-anxiety-a-chemical-imbalance
+Alyssa. (2023, March 17). Is Anxiety Caused by Chemical Imbalance? | Banyan Mental Health. Mental Health Program at Banyan Treatment Centers.
+  https://mentalhealth.banyantreatmentcenter.com/blog/is-anxiety-a-chemical-imbalance
 
-Cleveland Clinic. (2023, October 2). Selective Mutism: Overcoming Anxiety To Find Your Voice. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/selective-mutism
+Cleveland Clinic. (2023, October 2). Selective Mutism: Overcoming Anxiety To Find Your Voice. Cleveland Clinic.
+  https://my.clevelandclinic.org/health/diseases/selective-mutism
 
-Cleveland Clinic. (2024, July 3). Anxiety Disorders. Cleveland Clinic. https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders
+Cleveland Clinic. (2024, July 3). Anxiety Disorders. Cleveland Clinic.
+  https://my.clevelandclinic.org/health/diseases/9536-anxiety-disorders
 
-Johns Hopkins Medicine. (2025). Generalized Anxiety Disorder (GAD). Johns Hopkins Medicine. https://www.hopkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder
+Johns Hopkins Medicine. (2025). Generalized Anxiety Disorder (GAD). Johns Hopkins Medicine.
+  https://www.hopkinsmedicine.org/health/conditions-and-diseases/generalized-anxiety-disorder
 
-Mayo Clinic. (2018, May 4). Panic Attacks and Panic Disorder - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021
+Mayo Clinic. (2018, May 4). Panic Attacks and Panic Disorder - Symptoms and Causes. Mayo Clinic.
+  https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021
 
-Mayo Clinic. (2023, January 7). Agoraphobia - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987
+Mayo Clinic. (2023, January 7). Agoraphobia - Symptoms and Causes. Mayo Clinic.
+  https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987
 
-Mayo Clinic. (2023, June 9). Specific Phobias - Symptoms and Causes. Mayo Clinic; Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/specific-phobias/symptoms-causes/syc-20355156
+Mayo Clinic. (2023, June 9). Specific Phobias - Symptoms and Causes. Mayo Clinic; Mayo Clinic.
+  https://www.mayoclinic.org/diseases-conditions/specific-phobias/symptoms-causes/syc-20355156
 
-Mayo Clinic. (2024, June 12). Separation anxiety disorder. Mayo Clinic; Mayo Foundation for Medical Education and Research. https://www.mayoclinic.org/diseases-conditions/separation-anxiety-disorder/symptoms-causes/syc-20377455
+Mayo Clinic. (2024, June 12). Separation anxiety disorder. Mayo Clinic; Mayo Foundation for Medical Education and Research.
+  https://www.mayoclinic.org/diseases-conditions/separation-anxiety-disorder/symptoms-causes/syc-20377455
 
-National Institute of Mental health. (2022). Social anxiety disorder: More than just shyness. National Institute of Mental Health. https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness
+National Institute of Mental health. (2022). Social anxiety disorder: More than just shyness. National Institute of Mental Health.
+  https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness
