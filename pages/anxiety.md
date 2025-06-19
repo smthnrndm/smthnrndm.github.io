@@ -143,4 +143,4 @@ Johns Hopkins Medicine. (2025). Generalized Anxiety Disorder (GAD). John Hopkins
 
 Mayo Clinic. (2018, May 4). Panic Attacks and Panic Disorder - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021
 
-Mayo Clinic. (2023, January 7). Agoraphobia - Symptoms and Causes. Mayo Clinic. https://www.m
+Mayo Clinic. (2023, January 7). Agoraphobia - Symptoms and Causes. Mayo Clinic. https://www.mayoclinic.org/diseases-conditions/agoraphobia/symptoms-causes/syc-20355987
