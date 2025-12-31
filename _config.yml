@@ -64,7 +64,7 @@ social-network-links:
  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/eliana-k-a59950149/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -106,7 +106,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "psych-go.com"
+url-pretty: "eblogs.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
