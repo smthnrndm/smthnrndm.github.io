@@ -100,7 +100,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
   reddit: false
 
